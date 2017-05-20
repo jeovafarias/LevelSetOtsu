@@ -3,7 +3,7 @@
 Please refer to:
 
 Neto, Jeova F. S. R., et al. _"Level-set formulation based on Otsu method with morphological regularization."_
-Image Processing (ICIP), 2017 IEEE International Conference on. IEEE, 2017.
+IEEE International Conference on Image Processing (ICIP). IEEE, 2017.
 
 ##### bibtex:
 @inproceedings{LevelSetOtsu,
